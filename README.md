@@ -4,4 +4,4 @@ Link de Repositorio:
 https://github.com/julianest/calculadora
 
 Link de despliegue:
-https://julianest.github.io/calculadora/build/index.html
+https://julianest.github.io/calculadora/index.html

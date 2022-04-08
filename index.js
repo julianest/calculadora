@@ -1,10 +1,6 @@
-import "./style.css"
-
 const screen = document.getElementById('screen');
 const body = document.querySelector('body');
 const toggle  = document.getElementById('circle');
-
-
 
 window.onload = function(){
 	alert("Buen dia, recuerde que puede cambiar su preferencia de color clickeando en cualquiera de los 3 numeros de la seccion Theme");
